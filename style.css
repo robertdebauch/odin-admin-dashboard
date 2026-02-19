@@ -1,0 +1,9 @@
+:root {
+    --guide-color-1: magenta;
+    --guide-color-2: cyan;
+}
+
+.grid-container {
+    background-color: var(--guide-color-2);
+    border: 1px solid var(--guide-color-1);
+}
