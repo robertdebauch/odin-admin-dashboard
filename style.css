@@ -261,7 +261,7 @@ main .trending {
 
 .card :nth-child(1) .mini-avatar {
     background-image:
-        url("/assets/avatars/01_avatar.jpeg");
+        url("assets/avatars/01_avatar.jpeg");
     background-position: center;
     background-size: cover;
 }
@@ -269,21 +269,21 @@ main .trending {
 .card :nth-child(2) .mini-avatar,
 .icon+.mini-avatar {
     background-image:
-        url("/assets/avatars/02_avatar.jpeg");
+        url("assets/avatars/02_avatar.jpeg");
     background-position: center;
     background-size: cover;
 }
 
 .card :nth-child(3) .mini-avatar {
     background-image:
-        url("/assets/avatars/03_avatar.jpeg");
+        url("assets/avatars/03_avatar.jpeg");
     background-position: center;
     background-size: cover;
 }
 
 .card :nth-child(4) .mini-avatar {
     background-image:
-        url("/assets/avatars/04_avatar.jpeg");
+        url("assets/avatars/04_avatar.jpeg");
     background-position: center;
     background-size: cover;
 }
@@ -396,7 +396,7 @@ header .bottom-left {
     height: 4rem;
     border-radius: 100%;
     background-image:
-        url("/assets/avatars/02_avatar.jpeg");
+        url("assets/avatars/02_avatar.jpeg");
     background-position: center;
     background-size: cover;
 }
